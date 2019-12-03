@@ -16,6 +16,7 @@ implementation 'com.google.ar.sceneform:core:1.12.0'
 ```
 
 And Sync.
+
 4.	Then add some permission in manifest file to access camera and uses feature to access AR camera.
 5.	Then download model which is used to place in real world from poly.google.com and copy to sampledata directory. Then click on model.obj to import Scenefrom asset.
 6.	After That I add Fragment in my activity_main.xml layout file for AR Scenefrom.
