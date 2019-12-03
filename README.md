@@ -1,5 +1,3 @@
-# Documentation
-
 <div style="display:flex;" >
 <a href="https://play.google.com/store/apps/details?id=com.choki.shows">
     <img alt="Get it on Google Play"
@@ -7,6 +5,8 @@
 src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
 </div>
+
+# Documentation
 
 These are the steps which used to make First AR app in Android Studio.
 
